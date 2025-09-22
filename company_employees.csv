@@ -1,0 +1,16 @@
+emp_id,first_name,last_name,email,department,title,salary,start_date,location,performance_score
+101,John,Smith,john.smith@company.com,Sales,Manager,85000,2018-05-24,New York,88
+102,Emma,Stone,emma.stone@company.com,Marketing,Specialist,65000,2019-11-15,London,92
+103,Ray,Donovan,ray.d@company.com,Sales,Associate,72000,2020-01-30,New York,76
+104,Sarah,,sarah.parker@company.com,IT,Engineer,95000,2017-08-01,Tokyo,95
+105,Michael,Jordan,mj@company.com,IT,Manager,110000,2016-03-12,Chicago,98
+106,Lisa,Kudrow,lisa@company.com,HR,Director,90000,2015-07-07,New York,87
+107,,Thompson,david.t@company.com,Sales,Associate,,2019-04-22,London,81
+108,Jennifer,Aniston,j.aniston@company.com,Marketing,Manager,88000,2018-02-14,Chicago,90
+109,LeBron,James,lebron.james@company.com,IT,Engineer,102000,2021-09-05,Los Angeles,100
+110,Elizabeth,Queen,liz.queen@company.com,HR,Specialist,60000,2022-01-10,London,85
+111,Robert,Downey,rdj@company.com,Sales,Associate,71000,2020-06-17,New York,78
+112,Scarlett,Johansson,scarlett.j@company.com,Marketing,Specialist,67000,2019-08-28,Tokyo,91
+113,Chris,Evans,chris.e@company.com,IT,Engineer,98000,2018-12-03,Chicago,93
+114,Mark,Ruffalo,mark.r@company.com,IT,Engineer,97000,2017-05-19,New York,89
+115,Taylor,Swift,taylor.swift@company.com,Marketing,Specialist,66000,2021-11-11,New York,94
